@@ -1,6 +1,7 @@
+import matrix.*
 
 
-describe "group of tests " {
+describe "tests de matrix" {
 
   test "test 01" {
     assert.equals(100, 50+50)
